@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Andrey\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Andrey\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_EmploymentCenter.-1149288876.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Andrey\RiderProjects\EmploymentCenter" t="IncludeFlat">
+      <e p="EmploymentCenter" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="Applicant.cs" t="Include" />
+        <e p="ApplicantDetailForm.cs" t="Include" />
+        <e p="ApplicantDetailForm.Designer.cs" t="Include" />
+        <e p="ApplicantDetailForm.resx" t="Include" />
+        <e p="AvailableOffersForm.cs" t="Include" />
+        <e p="AvailableOffersForm.Designer.cs" t="Include" />
+        <e p="AvailableOffersForm.resx" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="EmploymentCenter.cs" t="Include" />
+        <e p="EmploymentCenter.csproj" t="IncludeRecursive" />
+        <e p="Form1.resx" t="Include" />
+        <e p="MainForm.cs" t="Include" />
+        <e p="MainForm.Designer.cs" t="Include" />
+        <e p="NewApplicantForm.cs" t="Include" />
+        <e p="NewOffer.cs" t="Include" />
+        <e p="NewOffer.Designer.cs" t="Include" />
+        <e p="NewOffer.resx" t="Include" />
+        <e p="NewOrder.Designer.cs" t="Include" />
+        <e p="NewOrder.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Qualification.cs" t="Include" />
+        <e p="SignedOffersForm.cs" t="Include" />
+        <e p="SignedOffersForm.Designer.cs" t="Include" />
+        <e p="SignedOffersForm.resx" t="Include" />
+        <e p="WorkOffer.cs" t="Include" />
+      </e>
+      <e p="EmploymentCenter.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
